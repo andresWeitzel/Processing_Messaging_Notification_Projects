@@ -15,7 +15,7 @@
 
 <div align="center">
 
-##  <img width="40" height="38" src="./doc/assets/gifs/notification.gif" />  Batch Processing, Messaging and Notifications
+##  <img width="45" height="40" src="./doc/assets/gifs/notification.gif" />  Processing, Messaging and Notification
 
 </div>
 
