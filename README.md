@@ -93,8 +93,9 @@ Central repository for backend projects focused on batch processing, messaging s
      <img width="42" height="40" alt="Spring Tool Suite Icon" src="./doc/assets/icons/backend/java/png/sts.png" />
      <img width="36" height="34" alt="JUnit Icon" src="./doc/assets/icons/backend/java/png/junit.png" />
      <img width="45" height="45" alt="Java Icon" src="./doc/assets/icons/backend/java/png/java.png" />
-     <img width="45" height="45" alt="Maven Icon" src="./doc/assets/icons/devops/png/maven.png" />
-     <img width="45" height="45" alt="Postman Icon" src="./doc/assets/icons/devops/png/postman.png" />
+     <img width="38" height="38" alt="Maven Icon" src="./doc/assets/icons/devops/png/maven.png" />
+     <img width="41" height="42" alt="Postman Icon" src="./doc/assets/icons/devops/png/postman.png" />
+     <img width="41" height="42" alt="Git Icon" src="./doc/assets/icons/devops/png/git.png" />
      <img width="36" height="36" alt="Log4j Icon" src="./doc/assets/icons/backend/java/png/log-four-j.png" />
      <img width="36" height="36" alt="Docker Icon" src="./doc/assets/icons/devops/png/docker.png" />
 </div>
