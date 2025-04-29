@@ -29,8 +29,7 @@ Central repository for backend projects focused on batch processing, messaging s
  * Languages : Java, others.
  * Frameworks : Spring Framework, Prometheus, others.
  * Spring modules : Spring Boot, Spring Batch, Spring Cloud, Spring Data JPA, others.
- * Technologies : Nodejs, others.
- * ORM : Hibernate, others.
+ * ORM : JPA-Hibernate, others.
  * Databases : MySQL, PostgreSQL, others.
  * Libraries : Resilience4J, Lombok, dotenv, cors, others.
  * Tools : Grafana, STS, VSC, Postman, Maven, swagger, Git, others.
@@ -68,7 +67,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <div align="center">
   
-  ### emails-notifications-MailHog. [🔝](#index-)
+  ### Emails Notifications MailHog. [🔝](#index-)
 
   
    <a href="https://github.com/andresWeitzel/emails-notifications-MailHog" target="_blank">
@@ -87,10 +86,14 @@ Central repository for backend projects focused on batch processing, messaging s
    </a>
   </div>
 
-### Technology Stack Used
+### Used Stack
   
 <div style="display: inline-block;">
-
+     <img width="38" height="36" alt="Spring Boot Icon" src="./doc/assets/icons/backend/java/png/spring-boot.png" />
+     <img width="42" height="40" alt="Spring Tool Suite Icon" src="./doc/assets/icons/backend/java/png/sts.png" />
+     <img width="36" height="34" alt="JUnit Icon" src="./doc/assets/icons/backend/java/png/junit.png" />
+     <img width="45" height="45" alt="Java Icon" src="./doc/assets/icons/backend/java/png/java.png" />
+     <img width="36" height="36" alt="Log4j Icon" src="./doc/assets/icons/backend/java/png/log-four-j.png" />
 </div>
 </div>
 
