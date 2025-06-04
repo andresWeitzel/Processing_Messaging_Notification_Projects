@@ -49,21 +49,38 @@ Central repository for backend projects focused on batch processing, messaging s
 
  <br>
 
-#### 🗂️ Projects 
+#### 🗂️ Projects
+* [User Management Email API](#user-management-email-api-)
+
+  <div align="left">
+    <img width="20" height="20" src="doc/assets/icons/devops/png/docker.png" />
+    <img width="20" height="20" src="doc/assets/icons/database/png/postgres.png" />
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/grafana.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/prometheus.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/junit.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/swagger.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />    
+  </div>
+
+<br>
+
 * [Emails Notifications MailHog](#emails-notifications-mailhog-)
 
   <div align="left">
-      <img width="20" height="20" src="doc/assets/icons/backend/java/png/log-four-j.png" />
-      <img width="20" height="20" src="doc/assets/icons/devops/png/docker.png" />
-      <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
-      <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
-      <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
-      <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
-      <img width="20" height="20" src="doc/assets/icons/backend/java/png/junit.png" />
-      <img width="20" height="20" src="doc/assets/icons/devops/png/swagger.png" />
-      <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />
-    
-    </div>
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/log-four-j.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/docker.png" />
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/junit.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/swagger.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />    
+  </div>
 
 <br>
 
@@ -74,6 +91,52 @@ Central repository for backend projects focused on batch processing, messaging s
  <br>
  
  <br>
+
+
+<!------START email-api-service-MailPit------>
+
+<div align="center">
+  
+### User Management Email API. [🔝](#index-)
+
+  
+<a href="https://github.com/andresWeitzel/email-api-service-MailPit" target="_blank">
+  <img src="https://github.com/andresWeitzel/emails-notifications-MailHog/blob/master/src/main/resources/static/img/email-project.png" >
+</a>
+
+  <div align="right">
+    <img width="20" height="20" src="doc/assets/icons/devops/png/docker.png" />
+    <img width="20" height="20" src="doc/assets/icons/database/png/postgres.png" />
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/grafana.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/prometheus.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/junit.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/swagger.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />    
+  </div>
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/email-api-service-MailPit" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>
+   
+<!------END email-api-service-MailPit------>
+
+
+<br>
+<br>
+<br> 
  
 
 <!------START emails-notifications-MailHog------>
@@ -113,9 +176,6 @@ Central repository for backend projects focused on batch processing, messaging s
   </a>
 </div>
    
-
-
-
 <!------END emails-notifications-MailHog------>
 
 
