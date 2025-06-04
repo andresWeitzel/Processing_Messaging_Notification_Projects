@@ -50,6 +50,19 @@ Central repository for backend projects focused on batch processing, messaging s
  <br>
 
 #### 🗂️ Projects
+* [Spring Batch Processing Payments](#spring-batch-processing-payments-)
+
+  <div align="left">
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/junit.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/swagger.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" /> 
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-batch.png" />    
+  </div>
+
 * [User Management Email API](#user-management-email-api-)
 
   <div align="left">
@@ -65,8 +78,6 @@ Central repository for backend projects focused on batch processing, messaging s
     <img width="20" height="20" src="doc/assets/icons/devops/png/swagger.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />    
   </div>
-
-<br>
 
 * [Emails Notifications MailHog](#emails-notifications-mailhog-)
 
@@ -91,6 +102,48 @@ Central repository for backend projects focused on batch processing, messaging s
  <br>
  
  <br>
+
+ <!------START Spring_Batch_Processing_Payments------>
+
+<div align="center">
+  
+### Spring Batch Processing Payments [🔝](#index-)
+
+  
+<a href="https://github.com/andresWeitzel/Spring_Batch_Payments" target="_blank">
+  <img src="https://github.com/andresWeitzel/Spring_Batch_Payments/blob/master/src/main/resources/static/img/spring_batch_payments.png" >
+</a>
+
+  <div align="right">
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/junit.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/swagger.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" /> 
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-batch.png" />    
+  </div>
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Spring_Batch_Payments" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>
+   
+<!------END Spring_Batch_Processing_Payments------->
+
+
+<br>
+<br>
+<br> 
 
 
 <!------START email-api-service-MailPit------>
