@@ -53,10 +53,11 @@ Central repository for backend projects focused on batch processing, messaging s
 * [Credit Risk Analysis Batch](#credit-risk-analysis-batch-)
 
   <div align="left">
-    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+        <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
     <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
     <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
     <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/junit.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" /> 
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-batch.png" />    
   </div>
@@ -130,6 +131,7 @@ Central repository for backend projects focused on batch processing, messaging s
     <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
     <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
     <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/junit.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" /> 
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-batch.png" />    
   </div>
