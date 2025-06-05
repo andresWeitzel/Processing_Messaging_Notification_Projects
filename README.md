@@ -153,12 +153,11 @@ Central repository for backend projects focused on batch processing, messaging s
 
 
 <br>
-
 <br>
-
 <br> 
-
+<br>
 <br> 
+<br>
 
  <!------START Spring_Batch_Processing_Payments------>
 
@@ -198,12 +197,11 @@ Central repository for backend projects focused on batch processing, messaging s
 <!------END Spring_Batch_Processing_Payments------->
 
 <br>
-
 <br>
-
 <br> 
-
+<br>
 <br> 
+<br>
 
 
 <!------START email-api-service-MailPit------>
@@ -248,13 +246,11 @@ Central repository for backend projects focused on batch processing, messaging s
 
 
 <br>
-
 <br>
-
 <br> 
-
+<br>
 <br> 
- 
+<br>
 
 <!------START emails-notifications-MailHog------>
 
