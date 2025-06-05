@@ -153,8 +153,12 @@ Central repository for backend projects focused on batch processing, messaging s
 
 
 <br>
+
 <br>
-<br>  
+
+<br> 
+
+<br> 
 
  <!------START Spring_Batch_Processing_Payments------>
 
@@ -193,9 +197,12 @@ Central repository for backend projects focused on batch processing, messaging s
    
 <!------END Spring_Batch_Processing_Payments------->
 
+<br>
 
 <br>
-<br>
+
+<br> 
+
 <br> 
 
 
@@ -207,7 +214,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
   
 <a href="https://github.com/andresWeitzel/email-api-service-MailPit" target="_blank">
-  <img src="https://github.com/andresWeitzel/emails-notifications-MailHog/blob/master/src/main/resources/static/img/email-project.png" >
+  <img src="https://github.com/andresWeitzel/email-api-service-MailPit/blob/master/src/main/resources/static/img/email-project.png" >
 </a>
 
   <div align="right">
@@ -241,7 +248,11 @@ Central repository for backend projects focused on batch processing, messaging s
 
 
 <br>
+
 <br>
+
+<br> 
+
 <br> 
  
 
