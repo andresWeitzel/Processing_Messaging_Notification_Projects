@@ -62,6 +62,8 @@ Central repository for backend projects focused on batch processing, messaging s
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-batch.png" />    
   </div>
 
+<br>  
+
 * [Spring Batch Processing Payments ![Status](./doc/assets/icons/badges/status-completed.svg)](#spring-batch-processing-payments--)
 
   <div align="left">
@@ -73,6 +75,8 @@ Central repository for backend projects focused on batch processing, messaging s
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" /> 
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-batch.png" />    
   </div>
+
+<br>   
 
 * [User Management Email API](#user-management-email-api-)
 
@@ -90,7 +94,9 @@ Central repository for backend projects focused on batch processing, messaging s
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />    
   </div>
 
-* [Emails Notifications MailHog](#emails-notifications-mailhog-)
+<br>     
+
+* [Emails Notifications MailHog ![Status](./doc/assets/icons/badges/status-completed.svg)](#emails-notifications-mailhog--)
 
   <div align="left">
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/log-four-j.png" />
@@ -256,7 +262,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <div align="center">
   
-### Emails Notifications MailHog. [🔝](#index-)
+### Emails Notifications MailHog ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   
 <a href="https://github.com/andresWeitzel/emails-notifications-MailHog" target="_blank">
