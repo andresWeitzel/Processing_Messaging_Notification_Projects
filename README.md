@@ -50,10 +50,10 @@ Central repository for backend projects focused on batch processing, messaging s
  <br>
 
 #### 🗂️ Projects
-* [Credit Risk Analysis Batch](#credit-risk-analysis-batch-)
+* [Credit Risk Analysis Batch ![Status](./doc/assets/icons/badges/status-completed.svg)](#credit-risk-analysis-batch--)
 
   <div align="left">
-        <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
     <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
     <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
     <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
@@ -62,7 +62,7 @@ Central repository for backend projects focused on batch processing, messaging s
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-batch.png" />    
   </div>
 
-* [Spring Batch Processing Payments](#spring-batch-processing-payments-)
+* [Spring Batch Processing Payments ![Status](./doc/assets/icons/badges/status-completed.svg)](#spring-batch-processing-payments-)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -119,7 +119,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <div align="center">
   
-### Credit Risk Analysis Batch [🔝](#index-)
+### Credit Risk Analysis Batch ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   
 <a href="https://github.com/andresWeitzel/Credit_Risk_Analysis_Batch" target="_blank">
@@ -144,7 +144,7 @@ Central repository for backend projects focused on batch processing, messaging s
   <a href="https://github.com/andresWeitzel/Credit_Risk_Analysis_Batch" target="_blank">
     <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.youtube.com/watch?v=9IEHzHfXZbo" target="_blank">
     <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
   </a>
 </div>
@@ -163,7 +163,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <div align="center">
   
-### Spring Batch Processing Payments [🔝](#index-)
+### Spring Batch Processing Payments ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   
 <a href="https://github.com/andresWeitzel/Spring_Batch_Payments" target="_blank">
@@ -189,7 +189,7 @@ Central repository for backend projects focused on batch processing, messaging s
   <a href="https://github.com/andresWeitzel/Spring_Batch_Payments" target="_blank">
     <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.youtube.com/watch?v=zPqArsLfH7o" target="_blank">
     <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
   </a>
 </div>
