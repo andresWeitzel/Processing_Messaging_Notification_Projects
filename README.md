@@ -62,7 +62,7 @@ Central repository for backend projects focused on batch processing, messaging s
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-batch.png" />    
   </div>
 
-* [Spring Batch Processing Payments ![Status](./doc/assets/icons/badges/status-completed.svg)](#spring-batch-processing-payments-)
+* [Spring Batch Processing Payments ![Status](./doc/assets/icons/badges/status-completed.svg)](#spring-batch-processing-payments--)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
