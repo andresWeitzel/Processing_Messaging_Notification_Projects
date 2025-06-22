@@ -50,7 +50,7 @@ Central repository for backend projects focused on batch processing, messaging s
  <br>
 
 #### 🗂️ Projects
-* [Credit Risk Analysis Batch ![Status](./doc/assets/icons/badges/status-completed.svg)](#credit-risk-analysis-batch--)
+* [Credit Risk Analysis Batch ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#credit-risk-analysis-batch--)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -64,7 +64,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <br>  
 
-* [Spring Batch Processing Payments ![Status](./doc/assets/icons/badges/status-completed.svg)](#spring-batch-processing-payments--)
+* [Spring Batch Processing Payments ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#spring-batch-processing-payments--)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -96,7 +96,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <br>     
 
-* [Emails Notifications MailHog ![Status](./doc/assets/icons/badges/status-completed.svg)](#emails-notifications-mailhog--)
+* [Emails Notifications MailHog ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#emails-notifications-mailhog--)
 
   <div align="left">
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/log-four-j.png" />
@@ -125,7 +125,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <div align="center">
   
-### Credit Risk Analysis Batch ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Credit Risk Analysis Batch ![status-completed](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   
 <a href="https://github.com/andresWeitzel/Credit_Risk_Analysis_Batch" target="_blank">
@@ -169,7 +169,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <div align="center">
   
-### Spring Batch Processing Payments ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Spring Batch Processing Payments ![status-completed](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   
 <a href="https://github.com/andresWeitzel/Spring_Batch_Payments" target="_blank">
@@ -262,7 +262,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <div align="center">
   
-### Emails Notifications MailHog ![Status](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Emails Notifications MailHog ![status-completed](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   
 <a href="https://github.com/andresWeitzel/emails-notifications-MailHog" target="_blank">
