@@ -32,7 +32,7 @@ Central repository for backend projects focused on batch processing, messaging s
  * ORM : JPA-Hibernate, others.
  * Databases : MySQL, PostgreSQL, others.
  * Libraries : Resilience4J, Lombok, dotenv, cors, others.
- * Tools : Grafana, STS, VSC, Postman, Maven, swagger, Git, others.
+ * Tools : Grafana, STS, VSC, Postman, Maven, swagger, Git, Mailpit, others.
  * Testing : Junit, others.
 
 
@@ -116,6 +116,10 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <!------Stop Index----->
   
+ <br>
+ 
+ <br>
+
  <br>
  
  <br>
