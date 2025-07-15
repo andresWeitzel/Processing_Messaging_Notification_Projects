@@ -78,7 +78,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <br>   
 
-* [User Management Email API ![status-completed]](#user-management-email-api--)
+* [User Management Email API ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#user-management-email-api--)
 
   <div align="left">
     <img width="20" height="20" src="doc/assets/icons/devops/png/docker.png" />
