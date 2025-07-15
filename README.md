@@ -78,7 +78,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <br>   
 
-* [User Management Email API](#user-management-email-api-)
+* [User Management Email API ![status-completed]](#user-management-email-api--)
 
   <div align="left">
     <img width="20" height="20" src="doc/assets/icons/devops/png/docker.png" />
@@ -214,7 +214,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <div align="center">
   
-### User Management Email API. [🔝](#index-)
+### User Management Email API ![status-completed](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
 
   
 <a href="https://github.com/andresWeitzel/email-api-service-MailPit" target="_blank">
@@ -243,7 +243,7 @@ Central repository for backend projects focused on batch processing, messaging s
   <a href="https://github.com/andresWeitzel/email-api-service-MailPit" target="_blank">
     <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDSHfBJ-uQp55RG-xhL162C" target="_blank">
     <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
   </a>
 </div>
