@@ -8,32 +8,32 @@
      <a href="./translations/README.es.md" target="_blank">
        <img src="../doc/assets/img/arg-flag.jpg" width="65" height="40" />
    </a>
-    <a href="https://github.com/andresWeitzel/Api_Rest_Microservices_Projects" target="_blank">
+    <a href="../README.md" target="_blank">
        <img src="../doc/assets/img/eeuu-flag.jpg" width="65" height="40" />
    </a>
 </div>
 
 <div align="center">
 
-##  <img width="45" height="40" src="../doc/assets/gifs/notification.gif" />  Processing, Messaging and Notification
+##  <img width="45" height="40" src="../doc/assets/gifs/notification.gif" />  Procesamiento, Mensajería y Notificaciones
 
 </div>
 
 
 <br>
 
-Central repository for backend projects focused on batch processing, messaging systems integration, and notification delivery services.
+Repositorio central para proyectos backend enfocados en procesamiento por lotes, integración de sistemas de mensajería y servicios de entrega de notificaciones.
 
 <br>
 
- * Languages : Java, others.
- * Frameworks : Spring Framework, Prometheus, others.
- * Spring modules : Spring Boot, Spring Batch, Spring Cloud, Spring Data JPA, others.
- * ORM : JPA-Hibernate, others.
- * Databases : MySQL, PostgreSQL, others.
- * Libraries : Resilience4J, Lombok, dotenv, cors, others.
- * Tools : Grafana, STS, VSC, Postman, Maven, swagger, Git, Mailpit, others.
- * Testing : Junit, others.
+ * Lenguajes : Java, otros.
+ * Frameworks : Spring Framework, Prometheus, otros.
+ * Módulos Spring : Spring Boot, Spring Batch, Spring Cloud, Spring Data JPA, otros.
+ * ORM : JPA-Hibernate, otros.
+ * Bases de datos : MySQL, PostgreSQL, otros.
+ * Librerías : Resilience4J, Lombok, dotenv, cors, otros.
+ * Herramientas : Grafana, STS, VSC, Postman, Maven, swagger, Git, Mailpit, otros.
+ * Testing : Junit, otros.
 
 
  <br>
@@ -42,15 +42,15 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <!------Start Index----->
 
-## Index 📜
+## Índice 📜
 
 <details>
- <summary> See </summary>
+ <summary> Ver </summary>
 
  <br>
 
-#### 🗂️ Projects
-* [Credit Risk Analysis Batch ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#credit-risk-analysis-batch--)
+#### 🗂️ Proyectos
+* [Análisis de Riesgo Crediticio por Lotes ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#análisis-de-riesgo-crediticio-por-lotes--)
 
   <div align="left">
     <img width="24" height="24" src="../doc/assets/icons/backend/java/png/java.png" />
@@ -64,7 +64,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <br>  
 
-* [Spring Batch Processing Payments ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#spring-batch-processing-payments--)
+* [Procesamiento de Pagos con Spring Batch ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#procesamiento-de-pagos-con-spring-batch--)
 
   <div align="left">
     <img width="24" height="24" src="../doc/assets/icons/backend/java/png/java.png" />
@@ -78,7 +78,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <br>   
 
-* [User Management Email API ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#user-management-email-api--)
+* [API de Gestión de Usuarios por Email ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#api-de-gestión-de-usuarios-por-email--)
 
   <div align="left">
     <img width="20" height="20" src="../doc/assets/icons/devops/png/docker.png" />
@@ -96,7 +96,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <br>     
 
-* [Emails Notifications MailHog ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#emails-notifications-mailhog--)
+* [Notificaciones de Emails con MailHog ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#notificaciones-de-emails-con-mailhog--)
 
   <div align="left">
     <img width="20" height="20" src="../doc/assets/icons/backend/java/png/log-four-j.png" />
@@ -125,7 +125,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <div align="center">
   
-### Credit Risk Analysis Batch ![status-completed](../doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Análisis de Riesgo Crediticio por Lotes ![status-completed](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
 
   
 <a href="https://github.com/andresWeitzel/Credit_Risk_Analysis_Batch" target="_blank">
@@ -144,14 +144,14 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <br>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/Credit_Risk_Analysis_Batch" target="_blank">
-    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+    <img width="60" height="60" alt="código" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
   </a>
   <a href="https://www.youtube.com/watch?v=9IEHzHfXZbo" target="_blank">
-    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+    <img width="60" height="60" alt="lista de reproducción" src="../doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
   </a>
 </div>
    
@@ -169,7 +169,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <div align="center">
   
-### Spring Batch Processing Payments ![status-completed](../doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Procesamiento de Pagos con Spring Batch ![status-completed](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
 
   
 <a href="https://github.com/andresWeitzel/Spring_Batch_Payments" target="_blank">
@@ -189,14 +189,14 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <br>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/Spring_Batch_Payments" target="_blank">
-    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+    <img width="60" height="60" alt="código" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
   </a>
   <a href="https://www.youtube.com/watch?v=zPqArsLfH7o" target="_blank">
-    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+    <img width="60" height="60" alt="lista de reproducción" src="../doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
   </a>
 </div>
    
@@ -214,7 +214,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <div align="center">
   
-### User Management Email API ![status-completed](../doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### API de Gestión de Usuarios por Email ![status-completed](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
 
   
 <a href="https://github.com/andresWeitzel/email-api-service-MailPit" target="_blank">
@@ -237,14 +237,14 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <br>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/email-api-service-MailPit" target="_blank">
-    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+    <img width="60" height="60" alt="código" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
   </a>
   <a href="https://www.youtube.com/playlist?list=PLCl11UFjHurDSHfBJ-uQp55RG-xhL162C" target="_blank">
-    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+    <img width="60" height="60" alt="lista de reproducción" src="../doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
   </a>
 </div>
    
@@ -262,7 +262,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <div align="center">
   
-### Emails Notifications MailHog ![status-completed](../doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Notificaciones de Emails con MailHog ![status-completed](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
 
   
 <a href="https://github.com/andresWeitzel/emails-notifications-MailHog" target="_blank">
@@ -284,14 +284,14 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <br>
 
- ### Details
+ ### Detalles
 
 <div style="display: inline-block; vertical-align: middle; text-align: center;">
   <a href="https://github.com/andresWeitzel/emails-notifications-MailHog" target="_blank">
-    <img width="60" height="60" alt="code" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+    <img width="60" height="60" alt="código" src="../doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
   </a>
   <a href="https://www.youtube.com/watch?v=QMlpFdOQHfI" target="_blank">
-    <img width="60" height="60" alt="playlist" src="../doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+    <img width="60" height="60" alt="lista de reproducción" src="../doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
   </a>
 </div>
    
