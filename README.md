@@ -62,8 +62,6 @@ Central repository for backend projects focused on batch processing, messaging s
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-batch.png" />    
   </div>
 
-<br>  
-
 * [Spring Batch Processing Payments ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#spring-batch-processing-payments--)
 
   <div align="left">
@@ -75,8 +73,6 @@ Central repository for backend projects focused on batch processing, messaging s
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" /> 
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-batch.png" />    
   </div>
-
-<br>   
 
 * [User Management Email API ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#user-management-email-api--)
 
@@ -93,8 +89,6 @@ Central repository for backend projects focused on batch processing, messaging s
     <img width="20" height="20" src="doc/assets/icons/devops/png/swagger.png" />
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />    
   </div>
-
-<br>     
 
 * [Emails Notifications MailHog ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#emails-notifications-mailhog--)
 

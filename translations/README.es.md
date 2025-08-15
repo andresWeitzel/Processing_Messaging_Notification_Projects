@@ -62,8 +62,6 @@ Repositorio central para proyectos backend enfocados en procesamiento por lotes,
     <img width="20" height="20" src="../doc/assets/icons/backend/java/png/spring-batch.png" />    
   </div>
 
-<br>  
-
 * [Procesamiento de Pagos con Spring Batch ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#procesamiento-de-pagos-con-spring-batch--)
 
   <div align="left">
@@ -75,8 +73,7 @@ Repositorio central para proyectos backend enfocados en procesamiento por lotes,
     <img width="20" height="20" src="../doc/assets/icons/backend/java/png/spring-boot.png" /> 
     <img width="20" height="20" src="../doc/assets/icons/backend/java/png/spring-batch.png" />    
   </div>
-
-<br>   
+   
 
 * [API de Gestión de Usuarios por Email ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#api-de-gestión-de-usuarios-por-email--)
 
@@ -94,7 +91,6 @@ Repositorio central para proyectos backend enfocados en procesamiento por lotes,
     <img width="20" height="20" src="../doc/assets/icons/backend/java/png/spring-boot.png" />    
   </div>
 
-<br>     
 
 * [Notificaciones de Emails con MailHog ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#notificaciones-de-emails-con-mailhog--)
 
