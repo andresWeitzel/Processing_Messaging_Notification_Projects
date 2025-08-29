@@ -50,6 +50,7 @@ Central repository for backend projects focused on batch processing, messaging s
  <br>
 
 #### 🗂️ Projects
+
 * [Credit Risk Analysis Batch ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#credit-risk-analysis-batch--)
 
   <div align="left">
@@ -73,6 +74,19 @@ Central repository for backend projects focused on batch processing, messaging s
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" /> 
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-batch.png" />    
   </div>
+
+* [Card Payment Simulator ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#card-payment-simulator--)
+
+  <div align="left">
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/junit.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/swagger.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />    
+  </div>  
+
 
 * [User Management Email API ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#user-management-email-api--)
 
@@ -104,19 +118,23 @@ Central repository for backend projects focused on batch processing, messaging s
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />    
   </div>
 
+
+
 <br>
 
 </details>
 
 <!------Stop Index----->
   
- <br>
- 
- <br>
+<br>
+  
+<div align="center">
+    
+ ## 🗂️ Projects
 
- <br>
- 
- <br>
+</div>
+
+<br>
 
 
  <!------START Credit_Risk_Analysis_Batch------>
@@ -199,6 +217,50 @@ Central repository for backend projects focused on batch processing, messaging s
 </div>
    
 <!------END Spring_Batch_Processing_Payments------->
+
+<br>
+<br>
+<br> 
+<br>
+<br> 
+<br>
+
+
+ <!------START Card_Payment_Simulator------>
+
+<div align="center">
+  
+### Card_Payment_Simulator ![status-completed](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+
+  
+<a href="https://github.com/andresWeitzel/Card_Payment_Simulator" target="_blank">
+  <img src="https://github.com/andresWeitzel/Card_Payment_Simulator/blob/master/src/main/resources/static/img/card-pay-simulator.png" >
+</a>
+
+  <div align="right">
+    <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/maven.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/postman.png" />
+    <img width="22" height="22" src="doc/assets/icons/devops/png/git.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/junit.png" />
+    <img width="20" height="20" src="doc/assets/icons/devops/png/swagger.png" />
+    <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-boot.png" />   
+  </div>
+
+<br>
+
+ ### Details
+
+<div style="display: inline-block; vertical-align: middle; text-align: center;">
+  <a href="https://github.com/andresWeitzel/Card_Payment_Simulator" target="_blank">
+    <img width="60" height="60" alt="code" src="./doc/assets/gifs/social-networks/github.gif" style="display: inline-block;" />
+  </a>
+  <a href="" target="_blank">
+    <img width="60" height="60" alt="playlist" src="./doc/assets/gifs/social-networks/youtubeLogo.gif" style="display: inline-block;" />
+  </a>
+</div>
+   
+<!------END Card_Payment_Simulator------->
 
 <br>
 <br>
