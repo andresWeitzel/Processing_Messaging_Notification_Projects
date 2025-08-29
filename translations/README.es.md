@@ -75,7 +75,7 @@ Repositorio central para proyectos backend enfocados en procesamiento por lotes,
     <img width="20" height="20" src="../doc/assets/icons/backend/java/png/spring-batch.png" />    
   </div>
 
-* [Simulador de Pagos con Tarjeta ![status-completed](../doc/assets/icons/badges/status-completed.svg)](#simulador-de-pagos-con-tarjeta--)
+* [Simulador de Pagos con Tarjeta ](#simulador-de-pagos-con-tarjeta-)
 
   <div align="left">
     <img width="24" height="24" src="../doc/assets/icons/backend/java/png/java.png" />
@@ -227,7 +227,7 @@ Repositorio central para proyectos backend enfocados en procesamiento por lotes,
 
 <div align="center">
   
-### Simulador de Pagos con Tarjeta ![status-completed](../doc/assets/icons/badges/status-completed.svg) [🔝](#índice-)
+### Simulador de Pagos con Tarjeta [🔝](#índice-)
 
   
 <a href="https://github.com/andresWeitzel/Card_Payment_Simulator" target="_blank">

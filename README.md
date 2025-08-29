@@ -75,7 +75,7 @@ Central repository for backend projects focused on batch processing, messaging s
     <img width="20" height="20" src="doc/assets/icons/backend/java/png/spring-batch.png" />    
   </div>
 
-* [Card Payment Simulator ![status-completed](./doc/assets/icons/badges/status-completed.svg)](#card-payment-simulator--)
+* [Card Payment Simulator ](#card-payment-simulator--)
 
   <div align="left">
     <img width="24" height="24" src="doc/assets/icons/backend/java/png/java.png" />
@@ -230,7 +230,7 @@ Central repository for backend projects focused on batch processing, messaging s
 
 <div align="center">
   
-### Card_Payment_Simulator ![status-completed](./doc/assets/icons/badges/status-completed.svg) [🔝](#index-)
+### Card_Payment_Simulator [🔝](#index-)
 
   
 <a href="https://github.com/andresWeitzel/Card_Payment_Simulator" target="_blank">
