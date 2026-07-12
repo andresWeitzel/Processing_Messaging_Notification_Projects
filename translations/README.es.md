@@ -1,5 +1,5 @@
 <div align = "center">
-<img src="../doc/assets/img/project-img.png" >
+<img src="../doc/assets/img/processing_img.png" >
 </div>
 
 <br>
