@@ -15,7 +15,7 @@
 
 <div align="center">
 
-##  <img width="45" height="40" src="../doc/assets/gifs/notification.gif" />  Procesamiento, Mensajería y Notificaciones
+##  <img width="58" height="58" src="../doc/assets/gifs/notification.gif" />  Procesamiento, Mensajería y Notificaciones
 
 </div>
 
